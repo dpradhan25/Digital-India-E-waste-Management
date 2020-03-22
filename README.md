@@ -9,7 +9,7 @@ OUR PROJECT-
 The homepage of the app will consist of list of home appliances divided into three categories  three major categories:
 1. Electronics gadgets
 2. TV& large appliances
-3.others.
+3. Others.
 
 HOW OUR APP WORKS-
 1. The Electronics gadgets segment will enable the person to place products such as laptops, mobile Accessories, Televisions, cameras & Accessories, Tablets, Power banks, smartwatches etc.  The TV& large Appliance section will allow the users to drop big commodities like Television, Toaster, Air conditioner etc. The Other section will include rest of the smaller electronic items.
